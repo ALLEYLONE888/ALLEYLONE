@@ -1,7 +1,9 @@
 删除桌面回收站图标
+
 gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
 
 删除桌面用户文件夹图标
+
 gsettings set org.gnome.shell.extensions.desktop-icons show-home false
 
 ubuntu20.04 任务栏图标再次单击使打开的窗口最小化
@@ -18,6 +20,7 @@ gsettings get org.gnome.shell.extensions.dash-to-dock click-action
 gsettings range org.gnome.shell.extensions.dash-to-dock click-action
 
 可设定值如下：
+
 enum
 'skip'
 'minimize'
