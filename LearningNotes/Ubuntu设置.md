@@ -36,5 +36,9 @@ enum
 
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action minimize-or-previews
 
+//dz
+461Mv9FHEVXR3Ht5daX2nJ6jQtuYiXnXmWsnZU1XVwmKcwMDivDijoNKNc87epPyZs92thDcN5AG3SC4scndkDKWMT4jG7v
+
+//seed
 同 亚 项 帮 术 柴 侦 汤 抗 库 猛 发 堂 底 艰 菜 玩 鲜 予 匀 株 福 数 接 接
 
